@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <img align="right" alt="coding" width='400'src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" >
 # 💫 About Me:<br/>
-🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at![Portfolio]( https://protfulio-project.web.app/)<br><br>📫 How to reach me borshadevi27@gmail.com<br><br>📄 Know about my experiences ![Resume](https://drive.google.com/file/d/11OFVNAUXD8tIBY6rOhCA-AGSKmJnNBMw/view?usp=sharing)<br><br>⚡ Fun fact Enjoying coding types of memo.😁
+🌱 I’m currently learning SQL<br><br>👨‍💻 All of my projects are available at![Portfolio]( https://protfulio-project.web.app/)<br><br>📫 How to reach me borshadevi27@gmail.com<br><br>📄 Know about my experiences ![Resume](https://drive.google.com/file/d/11OFVNAUXD8tIBY6rOhCA-AGSKmJnNBMw/view?usp=sharing)<br><br>⚡ Fun fact Enjoying coding types of memo.😁
 
 
 ## 🌐 Socials:

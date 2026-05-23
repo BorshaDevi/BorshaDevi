@@ -1,4 +1,4 @@
-![logo](https://github.com/BorshaDevi/BorshaDevi/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Borsha Devi</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <img align="right" alt="coding" width='400'src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" >

@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Borsha Devi</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
-# 💫 About Me:<br/>
-🌱 I’m currently learning SQL<br><br>👨‍💻 All of my projects are available at![Portfolio]( https://protfulio-project.web.app/)<br><br>📫 How to reach me borshadevi27@gmail.com<br><br>📄 Know about my experiences ![Resume](https://drive.google.com/file/d/11OFVNAUXD8tIBY6rOhCA-AGSKmJnNBMw/view?usp=sharing)<br><br>⚡ Fun fact Enjoying coding types of memo.😁
 
 
 ## 🌐 Socials:
